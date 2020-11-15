@@ -40,5 +40,5 @@ teorik değere eşit olacaktır.
 
 Bu deneyi Eviews programında yapabilmek için bu kodu Eviews’da çalıştırın* (Eviews’i açtıktan sonra File–> New –> Program yolunu izleyen, ekrana gelen pencereye bu kodu yapıştırıp, sol üst kısımdaki Run düğmesine basın, ekrana gelen mesaj kutusunda OK düğmesine basın).
 
-<b>Uygun Gecikme:</b>
+<b>Uygun_Gecikme.prg:</b>
  Bu kodda Akaike bilgi kriterinden yararlanarak istenilen seri için otoregresif modelin uygun gecikme uzunluğuna karar vermeye yardımcı olacak Eviews kodu yer almaktadır.

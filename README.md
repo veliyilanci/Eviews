@@ -1,6 +1,11 @@
 # Eviews
 Eviews ile Yazılmış Bazı Programlar
 
+<b>Aykırı_Deger.prg:</b>
+Verisetinde yer alan aykırı gözlemleri tespit edebilmek amacıyla bir çok yöntem kullanılmaktadır. Değişitirilmiş-Z skorları ise 
+Iglewicz ve Hoaglin tarafından literatüre kazandırılan bir yöntemdir. Bu kod ile elde edilen değiştirilmiş-Z skoru mutlak değer içerisinde 3,5′ten büyük olan gözlemler aykırı gözlem olarak ifade edilir. 
+<br>
+
 <b>Beklenen_Deger.prg: </b>
 Bir rassal değişkenin
 çok sayıda denemede alacağı değerlerin uzun dönem ortalaması beklenen
